@@ -30,4 +30,4 @@
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)-->
 ### Day 1: January 6, 2017
 **Today's Progress**: [ngrFeeds, A PWA app that aggregates news using rss feeds] Spent time writing HTML/CSS for a simple UI for the app. I was able to complete the homepage and category page. I also linked up this pages using angularjs ui-router
-**Thoughts:** Very excited to finally work with Gulp and SCSS again. Can't wait to start the PWA part (Service Worker on my mind)
+**Thoughts:** Very excited to finally work with Gulp and SCSS again. Can't wait to start the PWA part, this is my first PWA app (Service Worker on my mind)
