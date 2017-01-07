@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+<!--### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
@@ -27,4 +27,7 @@
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)-->
+### Day 1: January 6, 2017
+**Today's Progress**: [ngrFeeds, A PWA app that aggregates news using rss feeds] Spent time writing HTML/CSS for a simple UI for the app. I was able to complete the homepage and category page. I also linked up this pages using angularjs ui-router
+**Thoughts:** Very excited to finally work with Gulp and SCSS again. Can't wait to start the PWA part (Service Worker on my mind)
